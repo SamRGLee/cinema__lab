@@ -1,0 +1,1 @@
+import org.springframework.stereotype.Repository;@Repositorypublic class MoveRepository //should be movie{    public MoveRepository()    {    //create a list, add a list of movies    }}
